@@ -1,7 +1,7 @@
 $(document).ready(function() {
 
   //var apiRoot = 'http://localhost:8080/v1/task/';    ********  zmiana zadanie 21.6
-  var apiRoot = 'https://secure-wave-15485.herokuapp.com/v1/task/';
+  var apiRoot = 'https://still-tor-54007.herokuapp.com/v1/task/';
   var datatableRowTemplate = $('[data-datatable-row-template]').children()[0];
   var tasksContainer = $('[data-tasks-container]');
 
